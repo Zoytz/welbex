@@ -1,0 +1,6 @@
+.header__menu-items {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  justify-content: flex-start;
+}

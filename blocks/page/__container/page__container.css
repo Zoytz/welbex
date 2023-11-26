@@ -1,0 +1,11 @@
+.page__container {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0 auto;
+  max-width: 1440px;
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../../images/mainBG.svg);
+  background-repeat: no-repeat;
+  background-position: top left;
+}

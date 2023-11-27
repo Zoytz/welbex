@@ -25,3 +25,24 @@
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_tg.css);
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_vb.css);
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_wa.css);
+
+/* main */
+@import url(../blocks/main/main.css);
+
+/* presentation */
+@import url(../blocks/presentation/presentation.css);
+@import url(../blocks/presentation/__title/presentation__title.css);
+@import url(../blocks/presentation/__span/presentation__span.css);
+@import url(../blocks/presentation/__subtitle/presentation__subtitle.css);
+
+/* advantages */
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__title/advantages__title.css);
+@import url(../blocks/advantages/__span/advantages__span.css);
+@import url(../blocks/advantages/__span/_type/advantages__span_type_red.css);
+@import url(../blocks/advantages/__span/_type/advantages__span_type_orange.css);
+@import url(../blocks/advantages/__items/advantages__items.css);
+@import url(../blocks/advantages/__item/advantages__item.css);
+@import url(../blocks/advantages/__item-title/advantages__item-title.css);
+@import url(../blocks/advantages/__item-subtitle/advantages__item-subtitle.css);
+@import url(../blocks/advantages/__link/advantages__link.css);

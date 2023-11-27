@@ -1,0 +1,7 @@
+.advantages__span {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}

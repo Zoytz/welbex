@@ -1,0 +1,8 @@
+.footer {
+  padding: 55px 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  max-width: 1140px;
+  width: 100%;
+}

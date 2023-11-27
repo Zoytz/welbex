@@ -1,0 +1,7 @@
+.footer__menu-items {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 136px;
+  flex-wrap: wrap;
+}

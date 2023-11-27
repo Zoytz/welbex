@@ -25,6 +25,9 @@
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_tg.css);
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_vb.css);
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_wa.css);
+@import url(../blocks/contacts/_place/contacts_place_footer.css);
+@import url(../blocks/contacts/__socials/_place/contacts__socials_place_footer.css);
+@import url(../blocks/contacts/__adress/contacts__adress.css);
 
 /* main */
 @import url(../blocks/main/main.css);
@@ -46,3 +49,16 @@
 @import url(../blocks/advantages/__item-title/advantages__item-title.css);
 @import url(../blocks/advantages/__item-subtitle/advantages__item-subtitle.css);
 @import url(../blocks/advantages/__link/advantages__link.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu-title/footer__menu-title.css);
+@import url(../blocks/footer/__menu-items/footer__menu-items.css);
+@import url(../blocks/footer/__menu-item/footer__menu-item.css);
+@import url(../blocks/footer/__menu-link/footer__menu-link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright-text/footer__copyright-text.css);
+@import url(../blocks/footer/__copyright-link/footer__copyright-link.css);

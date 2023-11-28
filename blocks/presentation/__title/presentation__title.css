@@ -4,3 +4,9 @@
   max-width: 360px;
   font-size: 48px;
 }
+
+@media screen and (max-width: 1199px) {
+  .presentation__title {
+    font-size: 36px;
+  }
+}

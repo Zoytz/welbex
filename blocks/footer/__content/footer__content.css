@@ -2,3 +2,11 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1199px) {
+  .footer__content {
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+  }
+}

@@ -11,3 +11,10 @@
   padding-top: 40px;
   align-items: center;
 }
+
+@media screen and (max-width: 1199px) {
+  .page__container {
+    background-image: none;
+    padding: 0;
+  }
+}

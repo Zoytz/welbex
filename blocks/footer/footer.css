@@ -5,4 +5,11 @@
   gap: 35px;
   max-width: 1140px;
   width: 100%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1199px) {
+  .footer {
+    padding: 45px 15px 60px;
+  }
 }

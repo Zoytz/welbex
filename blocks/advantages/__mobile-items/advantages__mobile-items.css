@@ -1,0 +1,14 @@
+.advantages__mobile-items {
+  max-width: 265px;
+  display: none;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 14px;
+  align-self: center;
+}
+
+@media screen and (max-width: 1199px) {
+  .advantages__mobile-items {
+    display: grid;
+  }
+}

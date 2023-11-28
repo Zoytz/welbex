@@ -5,3 +5,12 @@
   gap: 5px;
   align-items: flex-end;
 }
+
+@media screen and (max-width: 1199px) {
+  .footer__copyright {
+    align-self: center;
+    align-items: flex-start;
+    max-width: 270px;
+    width: 100%;
+  }
+}

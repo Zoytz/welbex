@@ -9,4 +9,11 @@
   background-color: #4077F3;
   margin-top: 20px;
   color: #E4E5EA;
+  text-align: center;
+}
+
+@media screen and (max-width: 1199px) {
+  .advantages__link {
+    display: none;
+  }
 }

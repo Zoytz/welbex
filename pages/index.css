@@ -14,6 +14,7 @@
 @import url(../blocks/header/__logo-title/header__logo-title.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__menu-items/header__menu-items.css);
+@import url(../blocks/header/__menu-item/header__menu-item.css);
 @import url(../blocks/header/__menu-link/header__menu-link.css);
 
 /* contacts */
@@ -26,6 +27,7 @@
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_vb.css);
 @import url(../blocks/contacts/__social-link/_type/contacts__social-link_type_wa.css);
 @import url(../blocks/contacts/_place/contacts_place_footer.css);
+@import url(../blocks/contacts/_place/contacts_place_header.css);
 @import url(../blocks/contacts/__socials/_place/contacts__socials_place_footer.css);
 @import url(../blocks/contacts/__adress/contacts__adress.css);
 
@@ -49,6 +51,8 @@
 @import url(../blocks/advantages/__item-title/advantages__item-title.css);
 @import url(../blocks/advantages/__item-subtitle/advantages__item-subtitle.css);
 @import url(../blocks/advantages/__link/advantages__link.css);
+@import url(../blocks/advantages/__mobile-items/advantages__mobile-items.css);
+@import url(../blocks/advantages/__mobile-item/advantages__mobile-item.css);
 
 /* footer */
 @import url(../blocks/footer/footer.css);
@@ -57,7 +61,7 @@
 @import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__menu-title/footer__menu-title.css);
 @import url(../blocks/footer/__menu-items/footer__menu-items.css);
-@import url(../blocks/footer/__menu-item/footer__menu-item.css);
+@import url(../blocks/footer/__menu-items/_type/footer__menu-items_type_grid.css);
 @import url(../blocks/footer/__menu-link/footer__menu-link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__copyright-text/footer__copyright-text.css);

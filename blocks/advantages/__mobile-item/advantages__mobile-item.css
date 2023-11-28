@@ -1,0 +1,16 @@
+.advantages__mobile-item {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  position: relative;
+}
+
+.advantages__mobile-item::before {
+  content: '';
+  display: block;
+  width: 10px;
+  height: 1px;
+  background-image: linear-gradient(#FCB045, #FD1D1D);
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 8px);
+}

@@ -4,3 +4,9 @@
   grid-template-columns: 1fr 1fr;
   gap: 30px;
 }
+
+@media screen and (max-width: 1199px) {
+  .advantages__items {
+    display: none;
+  }
+}

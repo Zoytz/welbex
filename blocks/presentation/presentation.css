@@ -3,3 +3,10 @@
   flex-direction: column;
   gap: 30px;
 }
+
+@media screen and (max-width: 1199px) {
+  .presentation {
+    gap: 15px;
+    max-width: 270px;
+  }
+}

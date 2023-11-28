@@ -3,3 +3,9 @@
   flex-direction: column;
   gap: 10px;
 }
+
+@media screen and (max-width: 1199px) {
+  .header__logo {
+    display: none;
+  }
+}

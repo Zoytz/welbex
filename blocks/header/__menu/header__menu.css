@@ -2,3 +2,9 @@
   flex: 1 1 auto;
   margin-left: 50px;
 }
+
+@media screen and (max-width: 1199px) {
+  .header__menu {
+    margin-left: 0;
+  }
+}

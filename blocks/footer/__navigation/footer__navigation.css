@@ -2,3 +2,11 @@
   display: flex;
   gap: 100px;
 }
+
+@media screen and (max-width: 1199px) {
+  .footer__navigation {
+    flex-direction: column;
+    gap: 30px;
+    max-width: 270px;
+  } 
+}

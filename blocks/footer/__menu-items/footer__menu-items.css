@@ -5,3 +5,9 @@
   max-height: 136px;
   flex-wrap: wrap;
 }
+
+@media screen and (max-width: 1199px) {
+  .footer__menu-items {
+    max-height: 136px;
+  }
+}

@@ -4,3 +4,10 @@
   gap: 40px;
   align-items: flex-end;
 }
+
+@media screen and (max-width: 1199px) {
+  .advantages {
+    max-width: 270px;
+    gap: 20px;
+  }
+}
